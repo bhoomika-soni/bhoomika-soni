@@ -193,7 +193,6 @@ AI Integration                ███████████░░░░░�
   <img src="https://raw.githubusercontent.com/bhoomika-soni/bhoomika-soni/output/github-contribution-grid-snake-dark.svg" width="90%">
 </div>
 
-> 💡 To activate this, add the [`platane/snk`](https://github.com/Platane/snk) GitHub Action to your profile repo — it auto-generates the snake animation from your contribution graph.
 
 ---
 
